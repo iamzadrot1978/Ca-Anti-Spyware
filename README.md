@@ -213,4 +213,4 @@ CA Anti-Spyware is a complete free version with all features and updates include
 Protect your PC today! Download CA Anti-Spyware for free and enjoy a safer computing experience.
 
 ---
-**Last updated:** 2026-10-02 23:39:57 UTC
+**Last updated:** 2026-10-03 04:55:16 UTC
